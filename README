@@ -1,0 +1,213 @@
+$ conda list
+# packages in environment at /home/anonymous/miniconda3/envs/ipy:
+#
+# Name                    Version                   Build  Channel
+_pytorch_select           0.2                       gpu_0  
+absl-py                   0.9.0                    py36_0  
+altair                    4.0.0                      py_0    conda-forge
+asn1crypto                0.24.0                   py36_3    intel
+astor                     0.8.0                    py36_0  
+backcall                  0.1.0                    py36_2    intel
+backports                 1.0                      py36_9    intel
+blas                      1.0                         mkl  
+bleach                    2.1.3                    py36_2    intel
+bokeh                     0.13.0                   py36_0  
+boto                      2.49.0                   py36_0  
+boto3                     1.12.39                    py_0  
+botocore                  1.15.39                    py_0  
+bzip2                     1.0.6                        18    intel
+c-ares                    1.15.0            h7b6447c_1001  
+cachetools                3.1.1                      py_0  
+catalogue                 1.0.0                      py_0    conda-forge
+certifi                   2018.1.18                py36_2    intel
+cffi                      1.11.5                   py36_3    intel
+chardet                   3.0.4                    py36_3    intel
+chazutsu                  0.8.2                    pypi_0    pypi
+click                     7.1.2                      py_0  
+cloudpickle               1.3.0                    pypi_0    pypi
+cryptography              2.3                      py36_2    intel
+cudatoolkit               10.1.243             h6bb024c_0  
+cudnn                     7.6.5                cuda10.1_0  
+cycler                    0.10.0                   py36_7    intel
+cymem                     2.0.3            py36he1b5a44_0    conda-forge
+cython                    0.29.13          py36ha68da19_0    intel
+cython-blis               0.4.1            py36h516909a_0    conda-forge
+daal                      2020.1                intel_217    intel
+daal-devel                2020.1                intel_217    intel
+daal-include              2020.1                intel_217    intel
+daal-static               2020.1                intel_217    intel
+daal4py                   2019.5           py36ha68da19_2    intel
+dataclasses               0.7                      pypi_0    pypi
+decorator                 4.3.0                    py36_3    intel
+docutils                  0.15.2                   py36_0  
+entrypoints               0.2.3                    py36_2    intel
+filelock                  3.0.12                   pypi_0    pypi
+freetype                  2.9                           4    intel
+funcsigs                  1.0.2                    py36_7    intel
+future                    0.18.2                   pypi_0    pypi
+gast                      0.3.3                      py_0  
+gensim                    3.8.0            py36h962f231_0  
+get_terminal_size         1.0.0                    py36_7    intel
+google-api-core           1.17.0                   py36_0  
+google-auth               1.14.1                     py_0  
+google-cloud-core         1.3.0                      py_0  
+google-cloud-storage      1.28.0                     py_0  
+google-pasta              0.2.0                      py_0  
+google-resumable-media    0.5.0                      py_1  
+googleapis-common-protos  1.51.0                   py36_2  
+grpcio                    1.14.1           py36h9ba97e2_0  
+gym                       0.17.1                   pypi_0    pypi
+h5py                      2.8.0            py36h989c5e5_3  
+hdf5                      1.10.2                        2    intel
+html5lib                  1.0.1                    py36_4    intel
+icc_rt                    2020.1                intel_217    intel
+idna                      2.6                      py36_3    intel
+impi-devel                2019.7                intel_217    intel
+impi_rt                   2019.7                intel_217    intel
+importlib_metadata        1.5.0                    py36_0  
+intel-openmp              2020.1                intel_217    intel
+intel-tensorflow          2.0.0                    pypi_0    pypi
+intelpython               2019.5                        0    intel
+intelpython3_core         2019.5                        0    intel
+intelpython3_full         2019.5                        0    intel
+ipp                       2020.1                intel_217    intel
+ipp-devel                 2020.1                intel_217    intel
+ipp-include               2020.1                intel_217    intel
+ipp-static                2020.1                intel_217    intel
+ipykernel                 4.6.1                    py36_2    intel
+ipyparallel               6.0.2                    py36_2    intel
+ipython                   6.3.1                    py36_3    intel
+ipython_genutils          0.2.0                    py36_2    intel
+ipywidgets                7.0.0                    py36_2    intel
+jedi                      0.12.0                   py36_2    intel
+jinja2                    2.9.6                    py36_2    intel
+jmespath                  0.9.4                      py_0  
+joblib                    0.13.2                   py36_1    intel
+jsonschema                2.6.0                    py36_2    intel
+jupyter                   1.0.0                    py36_7    intel
+jupyter_client            5.1.0                    py36_5    intel
+jupyter_console           5.1.0                    py36_2    intel
+jupyter_core              4.4.0                    py36_6    intel
+keras-applications        1.0.8                      py_0  
+keras-preprocessing       1.1.0                      py_1  
+kiwisolver                1.0.1                    py36_2    intel
+libffi                    3.2.1                        11    intel
+libgcc-ng                 9.1.0                hdf63c60_0    intel
+libpng                    1.6.36                        2    intel
+libprotobuf               3.11.4               hd408876_0  
+libsodium                 1.0.16                        3    intel
+libstdcxx-ng              9.1.0                hdf63c60_0    intel
+llvmlite                  0.27.1                   py36_0    intel
+markdown                  3.1.1                    py36_0  
+markupsafe                1.0                      py36_3    intel
+matplotlib                3.1.1                    py36_2    intel
+mistune                   0.8.3                    py36_2    intel
+mkl                       2020.1                intel_217    intel
+mkl-devel                 2020.1                intel_217    intel
+mkl-dnn                   0.14                          2    intel
+mkl-include               2020.1                intel_217    intel
+mkl-service               2.3.0                    py36_0    intel
+mkl_fft                   1.0.14           py36ha68da19_1    intel
+mkl_random                1.0.4            py36ha68da19_2    intel
+mpi4py                    3.0.0                    py36_6    intel
+mpmath                    1.0.0                    py36_2    intel
+murmurhash                1.0.2            py36he6710b0_0  
+nbconvert                 5.2.1                    py36_2    intel
+nbformat                  4.4.0                    py36_2    intel
+ninja                     1.9.0            py36hfd86e86_0  
+nltk                      3.4.5                    py36_0  
+notebook                  5.2.2                    py36_1    intel
+numba                     0.42.1              np117py36_2    intel
+numexpr                   2.6.9                    py36_0    intel
+numpy                     1.17.0          py36ha68da19_13    intel
+numpy-base                1.17.0                  py36_13    intel
+openmp                    2018.0.3                intel_0    intel
+openssl                   1.0.2s                        0    intel
+orjson                    2.6.3                    pypi_0    pypi
+packaging                 20.3                       py_0  
+pandas                    0.25.0                   py36_5    intel
+pandocfilters             1.4.1                    py36_2    intel
+parso                     0.2.0                    py36_2    intel
+path.py                   11.0.1                   py36_2    intel
+pexpect                   4.2.1                    py36_4    intel
+pickleshare               0.7.4                    py36_3    intel
+pip                       19.1.1                   py36_0    intel
+plac                      0.9.6                    py36_0  
+preshed                   3.0.2            py36he6710b0_1  
+prompt_toolkit            1.0.15                   py36_2    intel
+protobuf                  3.11.4           py36he6710b0_0  
+ptyprocess                0.5.2                    py36_2    intel
+pyasn1                    0.4.8                      py_0  
+pyasn1-modules            0.2.7                      py_0  
+pycosat                   0.6.3                    py36_3    intel
+pycparser                 2.18                     py36_2    intel
+pyeditline                2.0.0                    py36_0    intel
+pyglet                    1.5.0                    pypi_0    pypi
+pygments                  2.2.0                    py36_5    intel
+pyopenssl                 17.5.0                   py36_2    intel
+pyparsing                 2.2.0                    py36_2    intel
+pysocks                   1.6.7                    py36_1    intel
+python                    3.6.9                         5    intel
+python-dateutil           2.8.0                    py36_0    intel
+python-graphviz           0.13.2                   pypi_0    pypi
+pytorch                   1.4.0           cuda101py36h02f0884_0  
+pytz                      2019.1                   py36_0    intel
+pyyaml                    5.1.1                    py36_0    intel
+pyzmq                     16.0.2                   py36_6    intel
+qsharp                    0.10.1912.501            pypi_0    pypi
+regex                     2020.4.4         py36h7b6447c_0  
+requests                  2.20.1                   py36_1    intel
+rsa                       4.0                        py_0  
+ruamel_yaml               0.11.14                  py36_4    intel
+s3transfer                0.3.3                    py36_0  
+sacremoses                0.0.35                   pypi_0    pypi
+scikit-learn              0.21.3           py36ha68da19_4    intel
+scipy                     1.3.1            py36ha68da19_2    intel
+seaborn                   0.10.1                     py_0  
+sentencepiece             0.1.83                   pypi_0    pypi
+setuptools                41.0.1                   py36_0    intel
+simplegeneric             0.8.1                    py36_7    intel
+six                       1.12.0                   py36_0    intel
+smart_open                2.0.0                      py_0  
+smp                       0.1.4                    py36_0    intel
+spacy                     2.2.3            py36hc9558a2_0    conda-forge
+sqlite                    3.28.0                        0    intel
+srsly                     1.0.0            py36he1b5a44_0    conda-forge
+stanfordnlp               0.2.0                    pypi_0    pypi
+stanza                    1.0.0                    pypi_0    pypi
+sympy                     1.3                      py36_1    intel
+tbb                       2020.2                intel_217    intel
+tbb-devel                 2020.2                intel_217    intel
+tbb4py                    2020.2             py36_intel_0    intel
+tcl                       8.6.4                        24    intel
+tensorboard               2.0.0              pyhb38c66f_1  
+tensorflow                2.0.0                    py36_0    intel
+tensorflow-base           2.0.1                         0    intel
+tensorflow-estimator      2.0.0              pyh2649769_0  
+termcolor                 1.1.0                    py36_1  
+terminado                 0.8.1                    py36_2    intel
+testpath                  0.3.1                    py36_2    intel
+thinc                     7.3.0            py36hc9558a2_0    conda-forge
+tk                        8.6.4                        29    intel
+tokenizers                0.5.2                    pypi_0    pypi
+toolz                     0.10.0                     py_0  
+torchviz                  0.0.1                    pypi_0    pypi
+tornado                   4.5.2                    py36_5    intel
+tqdm                      4.46.0                     py_0  
+traitlets                 4.3.2                    py36_3    intel
+transformers              2.8.0                    pypi_0    pypi
+urllib3                   1.24.1                   py36_2    intel
+wasabi                    0.6.0                      py_0    conda-forge
+wcwidth                   0.1.7                    py36_6    intel
+webencodings              0.5.1                    py36_0    intel
+werkzeug                  0.14.1                   py36_0    intel
+wheel                     0.31.0                   py36_3    intel
+widgetsnbextension        3.2.0                    py36_1    intel
+wrapt                     1.12.1           py36h7b6447c_1  
+xgboost                   0.90                     py36_0    intel
+xz                        5.2.4                         5    intel
+yaml                      0.1.7                         2    intel
+zeromq                    4.2.3                         2    intel
+zipp                      3.1.0                      py_0  
+zlib                      1.2.11                        5    intel
+
